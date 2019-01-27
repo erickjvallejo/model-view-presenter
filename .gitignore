@@ -1,0 +1,78 @@
+# Maven 
+target/
+!.mvn/wrapper/maven-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Binaries
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.war
+*.ear
+*.sar
+*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# IntelliJ project files 
+*.iml
+*.iws
+*.ipr
+.idea/
+.idea
+out/
+.idea_modules/
+
+# eclipse project file
+.metadata
+.classpath
+.project
+.settings/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+nb-configuration.xml
+jshell.history
+
+##########################
+## OS X
+##########################
+.DS_Store
+
+##Javascript
+frontend-es5
+frontend-es6
+bower_components
+
+##Spring Boot
+log.txt
+log.log
